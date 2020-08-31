@@ -2,4 +2,5 @@
 .quickdrawcache/
 .ipynb_checkpoints
 profile_default/
+__pycache__/
 ipython_config.py
